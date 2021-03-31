@@ -1,5 +1,5 @@
-Geology Mine Game
-=================== 
+(MyDocumentation)[index.md]
+=================
 
 Link to README on my Github: https://github.com/lowas1/MineGame/blob/main/README.md
 
