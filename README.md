@@ -1,7 +1,7 @@
 Geology Mine Game
 =================
 
-Link to README on my Github: (link)[https://github.com/lowas1/MineGame/blob/main/README.md]
+Link to README on my Github: <https://github.com/lowas1/MineGame/blob/main/README.md>
 
 This Geology Mining Game is a great way to study minerals and rocks from the  
 three main rock groups: igneous, sedimentary, and metamorphic. But this game    
