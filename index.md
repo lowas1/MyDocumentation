@@ -1,1 +1,1 @@
-[readme](README.html)
+[Mine Game README](README.html)
