@@ -1,1 +1,1 @@
-[Mine Game README](README.html)
+[Geology Mine Game README](README.html)
