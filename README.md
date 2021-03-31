@@ -88,8 +88,8 @@ I can be reached at lowas@appstate.edu
 Contribute
 ----------
 
-* Issue Tracker: <github.com/lowas1/MineGame/issues>
-* Source Code: <github.com/lowas1/MineGame>
+* Issue Tracker: <https://github.com/lowas1/MineGame/issues>
+* Source Code: <https://github.com/lowas1/MineGame>
  
  
 License
