@@ -50,7 +50,7 @@ Installation
  
 **How to Install:** 
     
-  1. Go to https://github.com/lowas1/MineGame/blob/main/MineGame.jar  
+  1. Go to <https://github.com/lowas1/MineGame/blob/main/MineGame.jar>
   2. On the right side click 'Download'  
     <img src="https://raw.githubusercontent.com/lowas1/MineGame/main/img/Screen%20Shot%202021-03-17%20at%202.24.04%20PM.png" alt="icon" width="150">
   3. Drag the download to your Desktop  
@@ -88,8 +88,8 @@ I can be reached at lowas@appstate.edu
 Contribute
 ----------
 
-* Issue Tracker: github.com/lowas1/MineGame/issues
-* Source Code: github.com/lowas1/MineGame
+* Issue Tracker: <github.com/lowas1/MineGame/issues>
+* Source Code: <github.com/lowas1/MineGame>
  
  
 License
